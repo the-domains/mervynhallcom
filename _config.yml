@@ -1,0 +1,14 @@
+layout_spectrum: 0.12820879626087844
+typography_spectrum: 0.6037455920595676
+color:
+  brandStrength: 0.5487281000241637
+  lightness: 0.6113813819829375
+  saturation: 0.2224012694787234
+  rhythmicContrast: 0.9834193678107113
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: mervynhall.com
